@@ -110,3 +110,7 @@
     width: 100%;
   }
 }
+.h2-custom {
+  margin-top: 1rem !important;
+  margin-bottom: 1rem !important;
+}
